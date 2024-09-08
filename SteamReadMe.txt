@@ -7,6 +7,11 @@ This mod can change the color and opacity of any of the targeting arcs via the c
 
 By default, only the "selected weapon" arc is changed.
 
+[h1]Steam Workshop[/h1]
+
+For Steam Users, subscribing to this mod does not install the mod.
+Follow Installation section instructions below to install.
+
 [h1]Compatibility[/h1]
 [list]
 [*]Some mods instruct the user to overwrite the game's original files.  This mod may not be compatible with those mods.
@@ -95,15 +100,19 @@ This section covers how to install the BepInEx mod loader and the mod itself.
 
 If BepInEx has already been installed, skip to the Mod Install section.
 [list]
-[*]Download BepInEx from https://github.com/BepInEx/BepInEx/releases/download/v5.4.23.2/BepInEx_win_x64_5.4.23.2.zip
-[*]Extract the contents of the BepInEx zip file into the game's directory:
+[*]
+Download BepInEx from https://github.com/BepInEx/BepInEx/releases/download/v5.4.23.2/BepInEx_win_x64_5.4.23.2.zip
+[*]
+Extract the contents of the BepInEx zip file into the game's directory:
 [i]<Steam Directory>\steamapps\common\Shortest Trip to Earth[/i]
 
 [b]Important[/b]:  The .zip file [i]must[/i] be extracted to the root folder of the game.  If BepInEx was extracted correctly, the following directory will exist: [i]<Steam Directory>\steamapps\common\Shortest Trip to Earth\BepInEx[/i].
 
 A common issue is extracting the .zip with the .zip name.  Ex: [i]BepInEx_win_x64_5.4.23.1/BepInEx[/i].  If this occurs, move the [i]BepInEx[/i] sub directory to the game's root directory.
-[*]Run the game.  Once the main menu is shown, exit the game.
-[*]If the install was successful, there will now be a [i]<Game Dir>/BepInEx/plugins[/i] directory.
+[*]
+Run the game.  Once the main menu is shown, exit the game.
+[*]
+If the install was successful, there will now be a [i]<Game Dir>/BepInEx/plugins[/i] directory.
 [/list]
 
 [h2]Mod Install[/h2]
@@ -112,7 +121,8 @@ A common issue is extracting the .zip with the .zip name.  Ex: [i]BepInEx_win_x6
 [list]
 [*]If on Nexumods.com, download from the Files tab.
 [*]Otherwise, download from https://github.com/NBKRedSpy/STTE-WeaponTargetingColor/releases/
-[/list][*]Extract the contents of the zip file into the [i]<Game Dir>/BepInEx/plugins[/i] folder.
+[/list]
+[*]Extract the contents of the zip file into the [i]<Game Dir>/BepInEx/plugins[/i] folder.
 [*]Run the Game.  The mod will now be enabled.
 [/list]
 

@@ -7,6 +7,11 @@ This mod can change the color and opacity of any of the targeting arcs via the c
  
 By default, only the "selected weapon" arc is changed.
  
+[b][size=5]Steam Workshop[/size][/b] 
+ 
+For Steam Users, subscribing to this mod does not install the mod.
+Follow [font=Courier New]Installation section[/font] instructions below to install.
+ 
 [b][size=5]Compatibility[/size][/b] 
 [list]
 [*]Some mods instruct the user to overwrite the game's original files.  This mod may not be compatible with those mods.
